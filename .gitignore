@@ -1,6 +1,11 @@
-# Ignorar executaveis
+# Executáveis
 *.o
 *.out
+programa
+*.exe
 
-# Ignorar arquivos de dados
+# Arquivos de dados gerados
 *.bin
+
+# Editor
+.vscode/
